@@ -1,0 +1,19 @@
+{
+  "name": "databaseurl",
+  "version": "1.0.0",
+  "description": "HTML for database entries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jace Parks, Zach Baker",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaceParks/databaseurl.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JaceParks/databaseurl/issues"
+  },
+  "homepage": "https://github.com/JaceParks/databaseurl#readme"
+}
